@@ -10,9 +10,10 @@ Developed in a IPython Notebook using [Apache Toree](https://toree.apache.org). 
 Cay Horstmann's [Scala for the Impatient](http://www.horstmann.com/scala/index.html).
 Or check [InformIT](http://www.informit.com/store/scala-for-the-impatient-9780134540566) book page.
 
+<center>[!["Scala for the Impatient, 2nd Edition" Cover](Cover__SftI.jpg)](http://www.horstmann.com/scala/index.html)</center>
 
 ## Scala Levels
-![Scala Levels](Scala__Levels.png)
+<center>![Scala Levels](Scala__Levels.png)</center>
 
 
 ## Free download
@@ -22,7 +23,7 @@ A1 level chapters [of 1st Edition] can be downloaded for free at [Lightbend](htt
 ## Chapters and their levels
 The [AL][1-3] tags below refer to Martin Odersky's [Scala levels](http://www.scala-lang.org/node/8610).
 
-- [ ]  1. The Basics (A1)
+- [X]  1. [The Basics (A1)](Chapter_01__Basics.ipynb)
 - [ ]  2. Control Structures and Functions (A1)
 - [ ]  3. Working with Arrays (A1)
 - [ ]  4. Maps and Tuples (A1)

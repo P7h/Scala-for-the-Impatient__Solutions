@@ -3,17 +3,22 @@
 
 Solutions for exercises of "Scala for the Impatient, 2nd Edition".
 
-Developed in a IPython Notebook using [Apache Toree](https://toree.apache.org). These notebooks can be imported directly into [Try Jupyter](https://try.jupyter.org/) and can be tweaked or modified to learn / play around more.
+Developed in a IPython Notebook using [Apache Toree](https://toree.apache.org). These notebooks can be imported directly into Jupyter with Spark Kernel or [Try Jupyter](https://try.jupyter.org/) website and can be tweaked or modified to learn / play around more.
 
 
 ## Book
-Cay Horstmann's [Scala for the Impatient](http://www.horstmann.com/scala/index.html).
+Cay Horstmann's [Scala for the Impatient, 2nd Ed](http://www.horstmann.com/scala/index.html).
 Or check [InformIT](http://www.informit.com/store/scala-for-the-impatient-9780134540566) book page.
 
-<center>[!["Scala for the Impatient, 2nd Edition" Cover](Cover__SftI.jpg)](http://www.horstmann.com/scala/index.html)</center>
+<p align="center">
+  <a href="http://www.horstmann.com/scala/index.html">
+  <img src="Cover__SftI.jpg" />
+  </a>
+</p>
+
 
 ## Scala Levels
-<center>![Scala Levels](Scala__Levels.png)</center>
+![Scala Levels](Scala__Levels.png)
 
 
 ## Free download

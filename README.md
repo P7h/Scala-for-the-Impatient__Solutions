@@ -29,8 +29,8 @@ A1 level chapters [of 1st Edition] can be downloaded for free at [Lightbend](htt
 The [AL][1-3] tags below refer to Martin Odersky's [Scala levels](http://www.scala-lang.org/node/8610).
 
 - [X]  1. [The Basics (A1)](Chapter_01__Basics.ipynb)
-- [ ]  2. Control Structures and Functions (A1)
-- [ ]  3. Working with Arrays (A1)
+- [X]  2. Control Structures and Functions (A1)
+- [X]  3. Working with Arrays (A1)
 - [ ]  4. Maps and Tuples (A1)
 - [ ]  5. Classes (A1)
 - [ ]  6. Objects (A1)
@@ -49,6 +49,13 @@ The [AL][1-3] tags below refer to Martin Odersky's [Scala levels](http://www.sca
 - [ ]  19. Advanced Types (L2)
 - [ ]  20. Parsing (A3)
 - [ ]  21. Implicits (L3)
+
+
+## Jupyter notebooks online viewer
+
+All the Jupyter notebooks of this repo can be browsed online either here with GitHub or with nbviewer app of jupyter.org. [https://nbviewer.jupyter.org/github/P7h/Scala-for-the-Impatient__Solutions](https://nbviewer.jupyter.org/github/P7h/Scala-for-the-Impatient__Solutions)
+
+Notebooks render beautifully on _nbviewer_ and shows the output cells as well as options for downloading the corresponding notebook, etc.
 
 
 ## Problems? Questions? Contributions? [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](http://p7h.org/contact/)
